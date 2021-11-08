@@ -1,0 +1,20 @@
+{
+  "short_name": "ecopedal",
+  "name": "ecopedal",
+  "icons": [
+    {
+      "src": "./img/header/ecopedal_favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/header/ecopedal_logo.svg",
+      "type": "image/svg",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
